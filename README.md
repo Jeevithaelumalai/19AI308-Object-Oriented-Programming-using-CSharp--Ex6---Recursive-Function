@@ -58,5 +58,6 @@ namespace program11{
 ```
 ### OUTPUT
 ![alt text](image.png)
+![alt text](image-1.png)
 ### RESULT
 Thus the C# program to reverse a number using recursive function has successfully executed.
